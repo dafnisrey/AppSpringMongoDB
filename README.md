@@ -1,6 +1,6 @@
 # 🎬 API de Películas
 
-## 📖 Descripción
+## Descripción
 
 He realizado esta aplicación con el propósito principal de **aprender y poner en práctica mis conocimientos de Spring**. Esto no significa que la aplicación no sea plenamente funcional.
 
@@ -11,7 +11,7 @@ Esta base de datos contiene las colecciones: `movies`, `comments`, `theaters`, `
 
 El propósito de esta aplicación no ha sido profundizar en la seguridad, por eso he optado por implementar una seguridad básica. La aplicación cuenta con una seguridad de tipo HTTPBasic con el usuario **admin** y la contraseña **1234** en memoria, el cual da acceso a todos los endpoints.
 
-# - Documentación de Endpoints
+## Documentación de Endpoints
 
 ## 📁 `/movies`
 
